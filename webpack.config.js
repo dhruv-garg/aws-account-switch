@@ -23,11 +23,11 @@ var tampermonkey = {
 
   // Allows you to manually add a list of accounts to be used within the account switcher. This is here for legacy and customization reasons.
   manualAccounts: [
-  //  {
-  //    Id: "aws-account-id",
-  //    Name: "aws-account-name",
-  //    Role: "aws-caa-role"
-  //  }
+    {
+      Id: "122838670202",
+      Name: "dhruv-aws",
+      Role: "developer-switchrole"
+    }
   ]
 };
 `
